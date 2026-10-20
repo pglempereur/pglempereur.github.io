@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Réalisations on Menuiserie Pinou</title>
-		<link>https://pglempereur.github.io/realisations/</link>
+		<link>http://localhost:1313/realisations/</link>
 		<description>Recent content in Réalisations on Menuiserie Pinou</description>
 		<generator>Hugo</generator>
 		<language>fr-BE</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://pglempereur.github.io/realisations/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/realisations/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

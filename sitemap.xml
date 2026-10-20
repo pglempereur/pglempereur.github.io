@@ -3,299 +3,299 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pglempereur.github.io/services/meubles-sur-mesure/</loc>
+    <loc>http://localhost:1313/services/meubles-sur-mesure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/dressing-sur-mesure/</loc>
+    <loc>http://localhost:1313/services/dressing-sur-mesure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/rangement-sous-pente/</loc>
+    <loc>http://localhost:1313/services/rangement-sous-pente/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/placard-sous-escalier/</loc>
+    <loc>http://localhost:1313/services/placard-sous-escalier/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/renovation-escalier/</loc>
+    <loc>http://localhost:1313/services/renovation-escalier/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/portes-interieures/</loc>
+    <loc>http://localhost:1313/services/portes-interieures/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/cloisons/</loc>
+    <loc>http://localhost:1313/services/cloisons/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/pose-de-parquet/</loc>
+    <loc>http://localhost:1313/services/pose-de-parquet/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/finitions-interieures/</loc>
+    <loc>http://localhost:1313/services/finitions-interieures/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/menuiserie-exterieure/</loc>
+    <loc>http://localhost:1313/services/menuiserie-exterieure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/acoz/</loc>
+    <loc>http://localhost:1313/menuisier/acoz/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/aiseau-presles/</loc>
+    <loc>http://localhost:1313/menuisier/aiseau-presles/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/anderlues/</loc>
+    <loc>http://localhost:1313/menuisier/anderlues/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/auvelais/</loc>
+    <loc>http://localhost:1313/menuisier/auvelais/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/beaumont/</loc>
+    <loc>http://localhost:1313/menuisier/beaumont/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/binche/</loc>
+    <loc>http://localhost:1313/menuisier/binche/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/bouffioulx/</loc>
+    <loc>http://localhost:1313/menuisier/bouffioulx/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/braine-l-alleud/</loc>
+    <loc>http://localhost:1313/menuisier/braine-l-alleud/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/braine-le-comte/</loc>
+    <loc>http://localhost:1313/menuisier/braine-le-comte/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/chapelle-lez-herlaimont/</loc>
+    <loc>http://localhost:1313/menuisier/chapelle-lez-herlaimont/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/charleroi/</loc>
+    <loc>http://localhost:1313/menuisier/charleroi/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/chastre/</loc>
+    <loc>http://localhost:1313/menuisier/chastre/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/chatelet/</loc>
+    <loc>http://localhost:1313/menuisier/chatelet/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/chatelineau/</loc>
+    <loc>http://localhost:1313/menuisier/chatelineau/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/couillet/</loc>
+    <loc>http://localhost:1313/menuisier/couillet/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/courcelles/</loc>
+    <loc>http://localhost:1313/menuisier/courcelles/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/court-saint-etienne/</loc>
+    <loc>http://localhost:1313/menuisier/court-saint-etienne/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/dampremy/</loc>
+    <loc>http://localhost:1313/menuisier/dampremy/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/ecaussinnes/</loc>
+    <loc>http://localhost:1313/menuisier/ecaussinnes/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/estinnes/</loc>
+    <loc>http://localhost:1313/menuisier/estinnes/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/farciennes/</loc>
+    <loc>http://localhost:1313/menuisier/farciennes/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/fleurus/</loc>
+    <loc>http://localhost:1313/menuisier/fleurus/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/floreffe/</loc>
+    <loc>http://localhost:1313/menuisier/floreffe/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/florennes/</loc>
+    <loc>http://localhost:1313/menuisier/florennes/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/fontaine-l-eveque/</loc>
+    <loc>http://localhost:1313/menuisier/fontaine-l-eveque/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/fosses-la-ville/</loc>
+    <loc>http://localhost:1313/menuisier/fosses-la-ville/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/frameries/</loc>
+    <loc>http://localhost:1313/menuisier/frameries/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/frasnes-lez-gosselies/</loc>
+    <loc>http://localhost:1313/menuisier/frasnes-lez-gosselies/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/gembloux/</loc>
+    <loc>http://localhost:1313/menuisier/gembloux/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/genappe/</loc>
+    <loc>http://localhost:1313/menuisier/genappe/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/gerpinnes/</loc>
+    <loc>http://localhost:1313/menuisier/gerpinnes/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/gilly/</loc>
+    <loc>http://localhost:1313/menuisier/gilly/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/gosselies/</loc>
+    <loc>http://localhost:1313/menuisier/gosselies/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/gozee/</loc>
+    <loc>http://localhost:1313/menuisier/gozee/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/ham-sur-heure-nalinnes/</loc>
+    <loc>http://localhost:1313/menuisier/ham-sur-heure-nalinnes/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/jamioulx/</loc>
+    <loc>http://localhost:1313/menuisier/jamioulx/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/jemeppe-sur-sambre/</loc>
+    <loc>http://localhost:1313/menuisier/jemeppe-sur-sambre/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/jumet/</loc>
+    <loc>http://localhost:1313/menuisier/jumet/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/la-louviere/</loc>
+    <loc>http://localhost:1313/menuisier/la-louviere/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/lambusart/</loc>
+    <loc>http://localhost:1313/menuisier/lambusart/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/le-roeulx/</loc>
+    <loc>http://localhost:1313/menuisier/le-roeulx/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/les-bons-villers/</loc>
+    <loc>http://localhost:1313/menuisier/les-bons-villers/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/lobbes/</loc>
+    <loc>http://localhost:1313/menuisier/lobbes/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/lodelinsart/</loc>
+    <loc>http://localhost:1313/menuisier/lodelinsart/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/loverval/</loc>
+    <loc>http://localhost:1313/menuisier/loverval/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/luttre/</loc>
+    <loc>http://localhost:1313/menuisier/luttre/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/manage/</loc>
+    <loc>http://localhost:1313/menuisier/manage/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/marchienne-au-pont/</loc>
+    <loc>http://localhost:1313/menuisier/marchienne-au-pont/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/marcinelle/</loc>
+    <loc>http://localhost:1313/menuisier/marcinelle/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/merbes-le-chateau/</loc>
+    <loc>http://localhost:1313/menuisier/merbes-le-chateau/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/mettet/</loc>
+    <loc>http://localhost:1313/menuisier/mettet/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/monceau-sur-sambre/</loc>
+    <loc>http://localhost:1313/menuisier/monceau-sur-sambre/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/mons/</loc>
+    <loc>http://localhost:1313/menuisier/mons/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/mont-sur-marchienne/</loc>
+    <loc>http://localhost:1313/menuisier/mont-sur-marchienne/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/montignies-sur-sambre/</loc>
+    <loc>http://localhost:1313/menuisier/montignies-sur-sambre/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/montigny-le-tilleul/</loc>
+    <loc>http://localhost:1313/menuisier/montigny-le-tilleul/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/morlanwelz/</loc>
+    <loc>http://localhost:1313/menuisier/morlanwelz/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/nalinnes/</loc>
+    <loc>http://localhost:1313/menuisier/nalinnes/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/namur/</loc>
+    <loc>http://localhost:1313/menuisier/namur/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/nivelles/</loc>
+    <loc>http://localhost:1313/menuisier/nivelles/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/pont-a-celles/</loc>
+    <loc>http://localhost:1313/menuisier/pont-a-celles/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/pont-de-loup/</loc>
+    <loc>http://localhost:1313/menuisier/pont-de-loup/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/ransart/</loc>
+    <loc>http://localhost:1313/menuisier/ransart/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/roux/</loc>
+    <loc>http://localhost:1313/menuisier/roux/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/sambreville/</loc>
+    <loc>http://localhost:1313/menuisier/sambreville/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/seneffe/</loc>
+    <loc>http://localhost:1313/menuisier/seneffe/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/soignies/</loc>
+    <loc>http://localhost:1313/menuisier/soignies/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/sombreffe/</loc>
+    <loc>http://localhost:1313/menuisier/sombreffe/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/souvret/</loc>
+    <loc>http://localhost:1313/menuisier/souvret/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/tamines/</loc>
+    <loc>http://localhost:1313/menuisier/tamines/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/thuin/</loc>
+    <loc>http://localhost:1313/menuisier/thuin/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/trazegnies/</loc>
+    <loc>http://localhost:1313/menuisier/trazegnies/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/villers-la-ville/</loc>
+    <loc>http://localhost:1313/menuisier/villers-la-ville/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/walcourt/</loc>
+    <loc>http://localhost:1313/menuisier/walcourt/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/wanfercee-baulet/</loc>
+    <loc>http://localhost:1313/menuisier/wanfercee-baulet/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/waterloo/</loc>
+    <loc>http://localhost:1313/menuisier/waterloo/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/a-propos/</loc>
+    <loc>http://localhost:1313/a-propos/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/realisations/</loc>
+    <loc>http://localhost:1313/realisations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/services/</loc>
+    <loc>http://localhost:1313/services/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pglempereur.github.io/menuisier/</loc>
+    <loc>http://localhost:1313/menuisier/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
